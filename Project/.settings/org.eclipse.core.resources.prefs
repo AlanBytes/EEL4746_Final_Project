@@ -1,10 +1,16 @@
 eclipse.preferences.version=1
+encoding//Debug/FatFs/subdir_rules.mk=UTF-8
+encoding//Debug/FatFs/subdir_vars.mk=UTF-8
 encoding//Debug/GrLib/fonts/subdir_rules.mk=UTF-8
 encoding//Debug/GrLib/fonts/subdir_vars.mk=UTF-8
 encoding//Debug/GrLib/grlib/subdir_rules.mk=UTF-8
 encoding//Debug/GrLib/grlib/subdir_vars.mk=UTF-8
+encoding//Debug/HAL/subdir_rules.mk=UTF-8
+encoding//Debug/HAL/subdir_vars.mk=UTF-8
 encoding//Debug/LcdDrivermsp430/subdir_rules.mk=UTF-8
 encoding//Debug/LcdDrivermsp430/subdir_vars.mk=UTF-8
+encoding//Debug/SDCardLib/subdir_rules.mk=UTF-8
+encoding//Debug/SDCardLib/subdir_vars.mk=UTF-8
 encoding//Debug/driverlib/MSP430F5xx_6xx/subdir_rules.mk=UTF-8
 encoding//Debug/driverlib/MSP430F5xx_6xx/subdir_vars.mk=UTF-8
 encoding//Debug/driverlib/MSP430FR5xx_6xx/subdir_rules.mk=UTF-8
